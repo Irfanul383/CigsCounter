@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="S1-4" size="0.076200 0.088452" />
+    <ImageTarget name="S1-3" size="0.057150 0.088378" />
+    <ImageTarget name="S1-2" size="0.038100 0.089619" />
+    <ImageTarget name="S1-1" size="0.019050 0.086467" />
+    <ImageTarget name="6" size="0.114300 0.089103" />
+    <ImageTarget name="5" size="0.095250 0.088900" />
+    <ImageTarget name="4" size="0.076200 0.089701" />
+    <ImageTarget name="3" size="0.057150 0.085196" />
+    <ImageTarget name="2" size="0.038100 0.085030" />
+    <ImageTarget name="1" size="0.019050 0.089946" />
+  </Tracking>
+</QCARConfig>
